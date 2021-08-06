@@ -2,6 +2,5 @@
 
 
 Tecnologias usada na apicação
-- [x] HTML
 - [x] JavaScript
 - [x] Git
